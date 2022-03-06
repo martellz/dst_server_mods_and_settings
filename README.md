@@ -10,3 +10,7 @@ just a back up of dst server mods files
     cp modoverrides.lua ~/.klei/DoNotStarveTogether/MyDediServer/
     cp modoverrides.lua ~/.klei/DoNotStarveTogether/MyDediServer/Master/
     cp modoverrides.lua ~/.klei/DoNotStarveTogether/MyDediServer/Caves/
+
+## PR
+
+if you have good mods, plz do send pull request!
